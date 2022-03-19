@@ -1,0 +1,6 @@
+esmf:
+  build: YES
+  version: 8_2_0
+  shared: YES
+  enable_pnetcdf: NO
+  debug: NO
